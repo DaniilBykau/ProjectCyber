@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42999397351",
+    "project_id": "projectcyber-59baa",
+    "storage_bucket": "projectcyber-59baa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42999397351:android:bf8d4e9fbbe6077fc0db42",
+        "android_client_info": {
+          "package_name": "com.example.projectcyber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42999397351-41hdd0l21b64cjjjdoqk7dr62h5r32il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVgv1mTp4JPQo8VaV2yLahY0oIRXNtjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42999397351-41hdd0l21b64cjjjdoqk7dr62h5r32il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
